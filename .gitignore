@@ -1,0 +1,8 @@
+# Estado local de cada projeto (memoria, todos, logs, backups)
+.bridge/
+# Python
+__pycache__/
+*.pyc
+# Windows
+Thumbs.db
+Desktop.ini
